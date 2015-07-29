@@ -1,0 +1,19 @@
+{
+  "name": "Skeleton",
+  "version": "2.0.4",
+  "description": "Skeleton is a dead-simple, responsive boilerplate to kickstart any responsive project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pgrimard/Skeleton.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pgrimard/Skeleton/issues"
+  },
+  "homepage": "https://github.com/pgrimard/Skeleton"
+}
