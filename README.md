@@ -7,7 +7,6 @@ Check out <http://getskeleton.com> for documentation and details.
 
 ```
 npm install --save skeleton-css
-
 ```
 
 
@@ -23,7 +22,6 @@ Skeleton/
 │   └── skeleton.css
 └── images/
     └── favicon.ico
-
 ```
 
 ### Why it's awesome
