@@ -1,7 +1,7 @@
 {
-  "name": "Skeleton",
+  "name": "skeleton-css",
   "version": "2.0.4",
-  "description": "Skeleton is a dead-simple, responsive boilerplate to kickstart any responsive project.",
+  "description": "npm installer for Skeleton with normalize.css",
   "repository": {
     "type": "git",
     "url": "https://github.com/pgrimard/Skeleton.git"
